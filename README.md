@@ -3,7 +3,7 @@ A script to transform picture to text, supporting Chinese</br>
 一个将图片转换成文字图的脚本，支持中文</br>
 必须要使用中文字体</br>
 效果图：
-![image](preview.jpg)
+![image](test_text.jpg)
 # Dependencies 环境依赖
 Python 2.7</br>
 PIL
